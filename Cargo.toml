@@ -1,0 +1,13 @@
+[package]
+name    = "guid"
+version = "0.1.0"
+authors = ["Kohei Watanabe <xbeef29@gmail.com>"]
+
+[dependencies]
+byteorder = "1"
+lazy_static = "1"
+rand = "0.4"
+
+crc = "1"
+hostname = "0.1"
+rust-crypto = "0.2"
